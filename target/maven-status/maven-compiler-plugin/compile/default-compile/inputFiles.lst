@@ -1,0 +1,11 @@
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/entidades/Filme.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/servicos/LocacaoService.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/exceptions/LocadoraException.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/dao/LocacaoDAOFake.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/servicos/Calculadora.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/exceptions/FilmeSemEstoqueException.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/exceptions/NaoPodeDividirPorZeroException.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/entidades/Usuario.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/dao/LocacaoDAO.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/utils/DataUtils.java
+/Users/reinaldoogata/Documents/Udemy/TestesUnitarios/src/main/java/br/ce/rjogata/entidades/Locacao.java

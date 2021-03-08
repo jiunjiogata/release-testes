@@ -1,0 +1,11 @@
+br/ce/rjogata/matchers/MatchersProprios.class
+br/ce/rjogata/servicos/TestesComMatchersPropriosTest.class
+br/ce/rjogata/servicos/CalculadoraTeste.class
+br/ce/rjogata/servicos/CalculoValorLocacaoTest.class
+br/ce/rjogata/servicos/OrdemDosTestes.class
+br/ce/rjogata/buiders/UsuarioBuilder.class
+br/ce/rjogata/servicos/AssetTests.class
+br/ce/rjogata/servicos/LocacaoServiceTest.class
+br/ce/rjogata/suites/SuiteExecucao.class
+br/ce/rjogata/matchers/DataDiferencaDiasMatcher.class
+br/ce/rjogata/matchers/DiaDaSemanaMatcher.class
